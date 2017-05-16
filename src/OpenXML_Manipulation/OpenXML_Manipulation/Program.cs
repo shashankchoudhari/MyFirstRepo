@@ -16,6 +16,7 @@ namespace OpenXML_Manipulation
         {
             try
             {
+                //This code is written by Ajinkya
                 // Create a Wordprocessing document. 
                 using (WordprocessingDocument package = WordprocessingDocument.Create(docName, WordprocessingDocumentType.Document))
                 {
