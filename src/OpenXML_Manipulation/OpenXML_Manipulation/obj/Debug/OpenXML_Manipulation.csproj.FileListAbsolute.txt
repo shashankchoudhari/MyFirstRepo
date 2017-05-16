@@ -1,0 +1,11 @@
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.exe.config
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.exe
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.pdb
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.csprojResolveAssemblyReference.cache
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.exe
+D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.pdb
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.exe.config
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.exe
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.pdb
