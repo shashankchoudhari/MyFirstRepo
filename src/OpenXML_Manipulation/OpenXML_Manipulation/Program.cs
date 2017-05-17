@@ -19,7 +19,11 @@ namespace OpenXML_Manipulation
                 //This code is written by ayknijA
                 //hello Shashank : Trying another way of using git
                 // Create a Wordprocessing document. 
+<<<<<<< HEAD
                 //new comment added
+=======
+                //Being updated in timely manner.!!
+>>>>>>> bcb9a11a45f2b2afd8f3b0b3fc06b3e8f4cd2e16
                 using (WordprocessingDocument package = WordprocessingDocument.Create(docName, WordprocessingDocumentType.Document))
                 {
                     // Add a new main document part. 
