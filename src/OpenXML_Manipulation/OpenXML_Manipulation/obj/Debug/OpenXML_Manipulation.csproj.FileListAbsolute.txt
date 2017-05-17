@@ -9,3 +9,8 @@ D:\Training\DotNet\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_M
 D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.exe.config
 D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.exe
 D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.pdb
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.exe
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\OpenXML_Manipulation.pdb
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WS\MyFirstRepo\src\OpenXML_Manipulation\OpenXML_Manipulation\obj\Debug\OpenXML_Manipulation.csprojResolveAssemblyReference.cache

@@ -72,9 +72,11 @@ namespace OpenXML_Manipulation
 
         static void Main(string[] args)
         {
-            Program pgm = new Program();
-            pgm.HelloWorld(@"D:\OpenXml Docs\SampleDoc.docx");
-            pgm.ReadWorld(@"D:\OpenXml Docs\SampleDoc.docx");
+            //Program pgm = new Program();
+            //pgm.HelloWorld(@"D:\OpenXml Docs\SampleDoc.docx");
+            //pgm.ReadWorld(@"D:\OpenXml Docs\SampleDoc.docx");
+
+            StopwatchProcessing.Estimate();
         }
     }
 }
