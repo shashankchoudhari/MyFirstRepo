@@ -16,14 +16,7 @@ namespace OpenXML_Manipulation
         {
             try
             {
-                //This code is written by ayknijA
-                //hello Shashank : Trying another way of using git
                 // Create a Wordprocessing document. 
-<<<<<<< HEAD
-                //new comment added
-=======
-                //Being updated in timely manner.!!
->>>>>>> bcb9a11a45f2b2afd8f3b0b3fc06b3e8f4cd2e16
                 using (WordprocessingDocument package = WordprocessingDocument.Create(docName, WordprocessingDocumentType.Document))
                 {
                     // Add a new main document part. 
@@ -42,9 +35,6 @@ namespace OpenXML_Manipulation
                           new Paragraph(
                               new Run(
                                   new Text("Third Line")))));
-
-
-
                     // Save changes to the main document part. 
                     package.MainDocumentPart.Document.Save();
                 }
@@ -54,7 +44,6 @@ namespace OpenXML_Manipulation
                 Console.WriteLine(ex.Message);
             }
         }
-
         public void ReadWorld(string docName)
         {
             try
